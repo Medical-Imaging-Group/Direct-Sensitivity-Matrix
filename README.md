@@ -1,6 +1,6 @@
 # Direct Sensitivity Matrix
 
-MATLAB Code : ([requires NIRFAST](http://www.dartmouth.edu/~nir/nirfast/))
+**MATLAB Code** : ([requires NIRFAST](http://www.dartmouth.edu/~nir/nirfast/))
 
 This MATLAB code is used as part of the work presented in:
 
